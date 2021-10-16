@@ -11,3 +11,14 @@
 .more-suggestions__title {
   margin-bottom: 30px;
 }
+
+.more-suggestions__icon-image-size {
+  width: 70px;
+  height: 70px;
+  border-radius: 10px;
+}
+
+.more-suggestions__icon-collection {
+  display: flex;
+  justify-content: space-between;
+}
