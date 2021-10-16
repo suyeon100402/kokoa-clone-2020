@@ -1,5 +1,6 @@
 .user-component {
   justify-content: space-between;
+  margin-top: 15px;
 }
 
 .user-component,
@@ -56,4 +57,5 @@
 .user-component__time {
   margin-bottom: 10px;
   display: block;
+  color: rgba(0, 0, 0, 0.4);
 }

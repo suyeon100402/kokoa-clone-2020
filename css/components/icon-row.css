@@ -16,3 +16,11 @@
 .icon-row__icons span {
   margin-top: 15 px;
 }
+
+.icon-row__icon-side {
+  justify-content: start;
+}
+
+.icon-row__icon-side-space {
+  margin-right: 60px;
+}
