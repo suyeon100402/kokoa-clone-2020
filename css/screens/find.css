@@ -1,8 +1,8 @@
 .recommended-friends {
   margin: 25px 0px;
   padding: 25px 0px;
-  border-top: var(--main-border);
-  border-bottom: var(--main-border);
+  border-top: 1px solid rgb(255, 242, 56);
+  border-bottom: 1px solid rgb(255, 242, 56);
 }
 
 .recommended-friends__title {
@@ -66,7 +66,7 @@
   width: 1px;
   height: 15px;
   margin: 0px 5px;
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: rgb(255, 242, 56);
 }
 
 .opan-post__member-status {
